@@ -1,0 +1,6 @@
+{
+    "model":{
+        "type": "minecraft:model",
+        "model": "ybpack:item/endsword1_model"
+    }
+}
